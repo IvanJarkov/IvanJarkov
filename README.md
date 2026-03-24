@@ -61,4 +61,4 @@ Scalable traffic.
 
 ## 📬 Contact
 
-https://puzzlefree.game
+[https://puzzlefree.game](https://www.linkedin.com/in/ivan-jarkov-8972b737a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Be0HY44GaR12wdABZTrTbHw%3D%3D)
