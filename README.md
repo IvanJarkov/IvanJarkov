@@ -1,16 +1,64 @@
-## Hi there 👋
+# 🧠 Ivan Jarkov
 
-<!--
-**IvanJarkov/IvanJarkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SEO specialist focused on growing organic traffic for puzzle products.
 
-Here are some ideas to get you started:
+Working on search visibility, indexing, and long-term traffic systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧩 Project
+
+### PuzzleFree — Online Jigsaw Platform
+
+🌐 https://puzzlefree.game  
+📱 iOS: https://apps.apple.com/app/id6751572041  
+🤖 Android: https://play.google.com/store/apps/details?id=com.enidev.puzzlefree
+
+- Ad-free jigsaw puzzle experience
+- Play directly in browser
+- Daily puzzles & themed collections
+- Available on iOS and Android
+
+---
+
+## 📈 What I Work On
+
+- Search intent analysis (puzzle-related queries)
+- SEO structure for categories and filters
+- Indexable pages for long-tail keywords
+- Internal linking strategies
+- Crawlability & rendering (JS-heavy pages)
+- Improving rankings for competitive queries
+
+---
+
+## 🧪 Focus Areas
+
+- “100 piece puzzle”, “free jigsaw puzzles online”, etc.
+- Category expansion (themes, difficulty, formats)
+- SEO-friendly puzzle pages
+- Technical SEO (indexing, Core Web Vitals)
+
+---
+
+## ⚙️ Tools
+
+- Google Search Console
+- Ahrefs
+- Google Analytics
+- Cloudflare
+- Custom SEO workflows
+
+---
+
+## 🧩 Approach
+
+Simple pages.  
+Clear intent.  
+Scalable traffic.
+
+---
+
+## 📬 Contact
+
+https://puzzlefree.game
